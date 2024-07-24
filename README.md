@@ -19,7 +19,7 @@ This repository contains the code and materials for the research paper on applyi
 In recent years, the unstructured nature, anonymity, and complexity of cryptocurrency data have become major challenges limiting the application of machine learning and deep learning in this field. This project focuses on the application of blockchain cryptocurrency regulation, using Bitcoin as the research subject.
 
 ## Data
-The datasets used in this project are created and relased by Youssef Elmougy and Ling Liu from School of Computer Science, Georgia Institute of Technology. Those data could be access via their <href='https://github.com/git-disl/EllipticPlusPlus'> github page</href>.
+The datasets used in this project are created and relased by Youssef Elmougy and Ling Liu from School of Computer Science, Georgia Institute of Technology. Those data could be access via their <a href='https://github.com/git-disl/EllipticPlusPlus'> github page</a>.
 
 
 
